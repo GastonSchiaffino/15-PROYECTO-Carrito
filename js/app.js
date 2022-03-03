@@ -30,8 +30,8 @@ function cargarEventListeners() {
 function agregarCurso(e) {
     e.preventDefault();
     if (e.target.classList.contains('agregar-carrito')) {
-        const cursoSelecciondo = e.target.parentElement.parentElement;
-        leerDatosCurso(cursoSelecciondo);
+        const cursoSeleccionado = e.target.parentElement.parentElement;
+        leerDatosCurso(cursoSeleccionado);
     }
 }
 
