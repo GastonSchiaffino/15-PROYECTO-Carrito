@@ -6,4 +6,4 @@ Carrito de compras con agregado de productos, cantidad para productos que ya est
 https://carrito-compra-universidad.netlify.app
 
 ### :tv: Home Screen
-![home](/assets/carrito.png)
+![home](/img/carrito.png)
